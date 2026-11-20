@@ -1,0 +1,5 @@
+camera_id,live,playback,image,ticket,action
+CAM-001,pass,pass,pass,,متابعة الفحص حسب الخطة التدريبية
+CAM-002,pass,fail,pass,LAB-001,إحالة فشل الاسترجاع للفني المختص
+CAM-003,unchecked,unchecked,unchecked,,استكمال الفحص قبل تسليم الوردية
+CAM-004,fail,unchecked,unchecked,,إنشاء بلاغ ومراجعة العطل عبر الفريق المخول
